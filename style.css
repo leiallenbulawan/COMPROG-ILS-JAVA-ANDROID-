@@ -26,7 +26,6 @@ border-right:1px solid rgba(255,255,255,0.3);
 .logo-circle{
 width:70px;
 height:70px;
-background:#ffb347;
 border-radius:50%;
 margin:auto;
 margin-bottom:10px;
@@ -88,6 +87,12 @@ transition:0.3s;
 .hero-btn:hover{
 transform:scale(1.1);
 background:#ff9933;
+}
+
+.short-des {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 /* CARDS */
